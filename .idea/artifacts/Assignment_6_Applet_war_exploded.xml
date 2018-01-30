@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Assignment 6 Applet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assignment_6_Applet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Assignment 6 Applet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Assignment 6 Applet" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/Documents/GMIT Year 5 Sem 9/Client-Server Programming/Server_Client_Labs/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar" />
+          <element id="library" level="project" name="Applet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
